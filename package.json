@@ -1,0 +1,22 @@
+{
+    "name": "stisla-dev",
+    "version": "1.0.0",
+    "description": "Free Bootstrap Admin Template",
+    "main": "index.js",
+    "repository": "https://github.com/stisla/stisla",
+    "author": "Stisla Team <nauvalazhar2@gmail.com> (https://getstisla.com)",
+    "license": "MIT",
+    "dependencies": {
+        "bootstrap": "^4.2.1"
+    },
+    "devDependencies": {
+        "gulp": "^4.0.0"
+    },
+    "scripts": {
+        "stisla-start": "yarn install --production=false",
+        "stisla-dev": "yarn install --prod",
+        "dist": "gulp dist",
+        "dev": "gulp"
+    }
+}
+  

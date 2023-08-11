@@ -1,0 +1,9 @@
+{
+    "description": "",
+    "type": "package",
+    "authors": [{
+        "name": "Gonata Indonesia",
+        "email": "gonataindonesia@gmail.com"
+    }],
+    "prefer-stable": true
+}
